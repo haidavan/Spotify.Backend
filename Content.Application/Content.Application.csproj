@@ -16,10 +16,4 @@
     <ProjectReference Include="..\Content.Domain\Content.Domain.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Genres\Queries\" />
-    <Folder Include="Groups\Queries\" />
-    <Folder Include="Songs\Queries\" />
-  </ItemGroup>
-
 </Project>
